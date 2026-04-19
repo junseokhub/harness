@@ -1,0 +1,11 @@
+models:
+  claude:
+    default: ""
+    guard: ""
+  openai:
+    default: ""
+    guard: ""
+
+prompts:
+  system: ""
+  system_with_context: ""

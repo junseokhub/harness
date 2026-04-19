@@ -24,4 +24,6 @@ build/
 
 # OS
 .DS_Store
-Thumbs.db
+Thumbs.dbconfig.yaml
+
+config.yaml

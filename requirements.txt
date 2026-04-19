@@ -6,3 +6,6 @@ langchain-anthropic
 langgraph
 guardrails-ai
 python-dotenv
+pydantic-settings
+pyyaml
+python-jose[cryptography]
